@@ -13,7 +13,7 @@
 pip install -r requirements.txt
 uvicorn app.api:app --reload
 streamlit run app/Фильмы.py
-
+'''
 # 
 # 🏠 Прогнозирование стоимости недвижимости (Турция)
 
